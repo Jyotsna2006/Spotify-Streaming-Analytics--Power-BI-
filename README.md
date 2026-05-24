@@ -137,8 +137,7 @@ SUMMARIZECOLUMNS(
     "Songs Per Artist", [Songs Per Artist],
     "Average Popularity Per Song", [Average Popularity Per Song]
 )
----
-
+```
 ## Business Problem
 Managing a massive global music catalog involves handling thousands of active tracks daily. With such a high volume of data, it becomes highly challenging for streaming platforms and label executives to:
 
