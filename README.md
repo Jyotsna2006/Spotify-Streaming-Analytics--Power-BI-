@@ -46,7 +46,7 @@ Behind the visual canvas, the project relies on strong data engineering and prog
 ![Data Model](Data_Model_Architecture.png)
 *Optimized backend schema showcasing an isolated Calculated Measures table and a disconnected parameter Slicer table.*
 
-#### 🗮️ Programmatic Semantic & Query Evaluation
+#### Programmatic Semantic & Query Evaluation
 Instead of standard point-and-click fields, all core business logic was handled programmatically. Below is the complete enterprise script executed in the native **DAX Query View** using advanced `DEFINE`, `CALCULATE`, and `SUMMARIZECOLUMNS` architecture to audit and output the entire metrics matrix in a single execution layer:
 
 ```dax
