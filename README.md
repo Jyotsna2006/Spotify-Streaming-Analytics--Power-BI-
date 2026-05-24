@@ -2,7 +2,7 @@
 Spotify streaming analytics canvas built in Power BI using advanced DAX queries, single-table modeling, and dynamic UI/UX design.
 # Spotify Streaming Analytics Canvas (Power BI)
 
-## 📌 Project Overview
+## Project Overview
 
 The **Spotify Streaming Analytics Canvas** is an interactive, single-page executive dashboard designed to **transform high-volume digital music streaming data into actionable content and release strategies**. 
 
@@ -16,7 +16,7 @@ Key highlights include:
 
 This project demonstrates **end-to-end business intelligence engineering**: from deep data cleaning and chronological indexing in Power Query to coding advanced metric calculations using programmatic DAX syntax in the native DAX Query View.
 
-### 🖥️ Dashboard Overview
+### Dashboard Overview
 
 The main dashboard displays critical streaming KPIs and high-end visualizations, allowing stakeholders to **interactively explore market performance, consumer preferences, and catalog metrics**.
 
@@ -31,15 +31,15 @@ All visuals are fully responsive and interconnected, providing a fluid, modern s
 ![Dashboard Overview](Spotify_Dashboard_Overview.png)
 *Interactive executive canvas featuring global streaming metrics, a dynamic track player spotlight, and multi-dimensional trend charts.*
 
-## 🔗 Dashboard Access
+## Dashboard Access
 
-- 📊 **Power BI Desktop File (.pbix):** Uploaded directly to this repository (download to explore full schema and calculations)
-- 🎥 **Project Walkthrough Video:** [Watch the Presentation Video Here](YOUR_LINKEDIN_VIDEO_LINK_HERE)
+- **Power BI Desktop File (.pbix):** Uploaded directly to this repository (download to explore full schema and calculations)
+- **Project Walkthrough Video:** [Watch the Presentation Video Here](YOUR_LINKEDIN_VIDEO_LINK_HERE)
 
 > Note: GitHub does not support previewing interactive Power BI files (.pbix). Please download the file locally to explore the full dashboard interactivity and backend architecture.
 
 
-### 📊 Architecture & Calculations
+### Architecture & Calculations
 
 Behind the visual canvas, the project relies on strong data engineering and programmatic logic to ensure data integrity and zero-computation errors during refreshes:
 
@@ -52,7 +52,7 @@ Behind the visual canvas, the project relies on strong data engineering and prog
 ![DAX Scripting 2](DAX_Query_View_2.png)
 *Safely computing complex metrics like Explicit Song Percentages using error-proof DIVIDE functions.*
 
-## 📌 Business Problem
+## Business Problem
 Managing a massive global music catalog involves handling thousands of active tracks daily. With such a high volume of data, it becomes highly challenging for streaming platforms and label executives to:
 
 - Efficiently track overall popularity trends and track lifecycles.
@@ -62,7 +62,7 @@ Managing a massive global music catalog involves handling thousands of active tr
 
 Without an advanced, centralized business intelligence tool, critical trends remain buried in raw relational data rows, slowing down key media strategy decisions.
 
-## 🎯 Objectives
+## Objectives
 
 The main goals of this project were to:
 
@@ -72,7 +72,7 @@ The main goals of this project were to:
 - **Optimize Backend Performance:** Structure the data tables cleanly so that filters work instantly without lagging or slowing down the dashboard.
 - **Code Safe Business Metrics:** Write custom, error-free DAX formulas to calculate advanced metrics (like explicit song percentages) without risking system errors during updates.
   
-## 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 The dashboard tracks the following foundational metrics to deliver an instantaneous performance overview:
 
 - **Total Songs** – Continuous count of active tracks within the monitored dataset.
@@ -97,11 +97,11 @@ This project is created strictly for educational and portfolio demonstration pur
 - **Chronological Index Mapping** – Engineering a dedicated `MonthIndex` column to force timeline charts to sort logically (Jan, Feb, Mar...) rather than alphabetically.
 - **Disconnected Parameters** – Building isolated helper tables to handle dynamic front-end text and chart toggles (`Month` vs. `Quarter`).
 
-## 📚 Key Learnings
+## Key Learnings
 - Mastered the ability to turn thousands of unstructured streaming records into an enterprise-grade corporate analytics interface.
 - Gained hands-on experience structuring clear visual hierarchies using customized dark modes inspired by modern UI/UX design tools (Figma).
 - Developed strong data modeling hygiene by separating raw data tables from custom calculated formula folders (Measures Tables).
 - Learned to write advanced, safe semantic formulas using `CALCULATE`, `FILTER`, and `DIVIDE` to prevent data engine crash loops.
 
-## 🚀 Conclusion
+## Conclusion
 This project successfully demonstrates the power of business intelligence within the Media & Entertainment analytics domain, bridging the gap between raw backend numbers and sleek, executive-level decision systems.
