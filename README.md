@@ -168,15 +168,15 @@ The dashboard tracks the following foundational metrics to deliver an instantane
 
 These metrics are structured inside a prominent vertical summary panel on the left-center of the canvas, guiding the executive's eye instantly to the macro numbers.
 
-## 📂 Dataset Description
+## Dataset Description
 The dataset used in this project covers global streaming metrics, tracking granular attributes including unique track IDs, artist names, position rankings, normalized popularity scores, durations (ms), release timelines, album types, explicit content tags, and direct web URLs for official album cover art.
 
 This dataset was utilized as a rigorous, independent learning exercise to master advanced data modeling, data types, semantic layer organization, and dynamic visual interface design in Power BI.
 
-## ⚠️ Disclaimer
+## Disclaimer
 This project is created strictly for educational and portfolio demonstration purposes. The dataset, dashboard, and visuals are independent projects and are not officially affiliated with, sponsored by, or endorsed by Spotify.
 
-## 🛠 Tools & Techniques Used
+## Tools & Techniques Used
 - **Microsoft Power BI Desktop** – Core dashboard design, visual layout, and interface construction.
 - **Power Query (M Language)** – Data cleaning, data type casting, and custom column engineering.
 - **DAX (Data Analysis Expressions)** – Programmatic writing of complex conditional metrics in the native DAX Query View.
