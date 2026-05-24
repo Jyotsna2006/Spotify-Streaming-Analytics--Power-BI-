@@ -46,11 +46,8 @@ Behind the visual canvas, the project relies on strong data engineering and prog
 ![Data Model](Data_Model_Architecture.png)
 *Optimized backend schema showcasing an isolated Calculated Measures table and a disconnected parameter Slicer table.*
 
-![DAX Scripting 1](DAX_Query_View_1.png)
-*Advanced calculations scripted programmatically in the native DAX Query View using CALCULATE and DISTINCTCOUNT logic.*
-
-![DAX Scripting 2](DAX_Query_View_2.png)
-*Safely computing complex metrics like Explicit Song Percentages using error-proof DIVIDE functions.*
+![DAX Query View](DAX_Query_Output.png)
+*Programmatic verification of the semantic layer using native `EVALUATE` and `SUMMARIZECOLUMNS` queries to audit core streaming metrics in a unified tabular execution.*
 
 ## Business Problem
 Managing a massive global music catalog involves handling thousands of active tracks daily. With such a high volume of data, it becomes highly challenging for streaming platforms and label executives to:
