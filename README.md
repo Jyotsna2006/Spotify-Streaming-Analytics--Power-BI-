@@ -34,7 +34,7 @@ All visuals are fully responsive and interconnected, providing a fluid, modern s
 ## Dashboard Access
 
 - **Power BI Desktop File (.pbix):** Uploaded directly to this repository (download to explore full schema and calculations)
-- **Project Walkthrough Video:** [Watch the Presentation Video Here](YOUR_LINKEDIN_VIDEO_LINK_HERE)
+- **Project Walkthrough Video:** [Watch the Presentation Video Here](https://www.linkedin.com/posts/djyotsna09_powerbi-dataanalytics-dashboard-activity-7464597749104140289-lqnU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHnFNAB_uork4dUr-h6feRmQup2pOVDcxE)
 
 > Note: GitHub does not support previewing interactive Power BI files (.pbix). Please download the file locally to explore the full dashboard interactivity and backend architecture.
 
