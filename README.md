@@ -1,4 +1,4 @@
-# Spotify-Streaming-Analytics-(Power BI)
+# Spotify-Streaming-Analytics
 Spotify streaming analytics canvas built in Power BI using advanced DAX queries, single-table modeling, and dynamic UI/UX design.
 # Spotify Streaming Analytics Canvas (Power BI)
 
